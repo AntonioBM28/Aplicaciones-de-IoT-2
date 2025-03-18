@@ -2,13 +2,13 @@
 
 ## Videos Sensores KY y MQ
 
-[Codigos](https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Conexion.py)
-[Videos](https://drive.google.com/file/d/1rjljo-nKwTh2PHkWmnwgj7zHQewwctTa/view?usp=drive_link)
-[Flujos Node-RED]()
-[Diagramas]()
+[Codigos]()
+[Videos](https://drive.google.com/drive/folders/1sJXHItz5smOAzdcEtqugseSHrEjZcDrY?usp=sharing)
+[Flujos Node-RED](https://drive.google.com/drive/folders/1oJaRew3ZjsBNRvNWSu7HyTUqI6qRkRhW?usp=sharing)
+[Diagramas](https://drive.google.com/drive/folders/1bR2wQ7bfN6mMua10iVFdMvIyLq3NSK2U?usp=sharing)
 
 ## Placa con LEDS
-[Video]()
+[Video](https://drive.google.com/file/d/1c0YKpExiGIYLII6sbrdpKjGMtDMSkdad/view?usp=sharing)
 [Codigo]()
 
 ## Curso Java Script
