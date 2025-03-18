@@ -1,6 +1,6 @@
 # Aplicaciones-de-IoT-2
 
-## Videos Sensores KY y MQ
+## Sensores KY y MQ
 
 [Codigos](https://github.com/AntonioBM28/Aplicaciones-de-IoT-2/tree/main/Codigos%20IoT)
 [Videos](https://drive.google.com/drive/folders/1sJXHItz5smOAzdcEtqugseSHrEjZcDrY?usp=sharing)
