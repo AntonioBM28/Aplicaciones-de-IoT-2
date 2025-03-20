@@ -10,6 +10,7 @@
 ## Placa con LEDS
 [Video](https://drive.google.com/file/d/1c0YKpExiGIYLII6sbrdpKjGMtDMSkdad/view?usp=sharing)
 [Codigo](https://github.com/AntonioBM28/Aplicaciones-de-IoT-2/blob/main/PlacaLEDS.py)
+[Diagrama Conexion](https://wokwi.com/projects/424803696395459585)
 
 ## Curso Java Script
 
